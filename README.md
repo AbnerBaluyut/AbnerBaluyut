@@ -4,7 +4,7 @@ I'm a passionate **Flutter mobile developer** from the Philippines 🇵🇭, bui
 
 - 🔭 Currently working on: Flutter performance optimization and component reuse
 - 🌱 Learning: Jetpack Compose & SwiftUI
-- 💼 Available for freelance or full-time roles (remote or relocation-ready)
+- 💼 Available for freelance or full-time roles (remote)
 - 🧠 You can explore my full tech stack and skills in my portfolio:  
   👉 [abnerbaluyut.vercel.app](https://abnerbaluyut.vercel.app/)
 
