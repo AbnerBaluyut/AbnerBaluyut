@@ -1,3 +1,5 @@
+![My Banner](cover_photo.png)
+
 ### 👋 Hi, I'm Abner Baluyut
 
 I'm a passionate **Flutter mobile developer** from the Philippines 🇵🇭, building cross-platform apps for Android and iOS.
