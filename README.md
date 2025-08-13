@@ -19,4 +19,6 @@ I'm a passionate **Flutter mobile developer** from the Philippines 🇵🇭, bui
 > _Being Deaf doesn’t stop me from writing clean, scalable, and production-ready code.  
 > I let my work speak — just like my code does._
 
+![AbnerBaluyut's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerBaluyut&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbnerBaluyut&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
