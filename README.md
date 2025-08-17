@@ -1,4 +1,4 @@
-![My Banner](cover_photo.png?version=5)
+![My Banner](cover_photo.png?v=1)
 
 ### 👋 Hi, I'm Abner Baluyut
 
