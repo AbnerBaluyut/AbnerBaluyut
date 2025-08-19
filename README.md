@@ -4,7 +4,9 @@
 
 I'm a passionate **Flutter mobile developer** from the Philippines 🇵🇭, building cross-platform apps for Android and iOS.
 
-- 🔭 Currently working on: Flutter performance optimization and component reuse
+- 🔭 Currently working on:
+  - Easelife: [GooglePlay](https://play.google.com/store/apps/details?id=ph.easethetics.easentralized.easelife&hl=en) | [AppStore](https://apps.apple.com/ph/app/easelife-1-step-to-perfection/id1638659132)
+  - Easemart: [GooglePlay](https://play.google.com/store/apps/details?id=ph.easethetics.easemart&hl=en) | [AppStore](https://apps.apple.com/us/app/easemart-kr/id6443999042)
 - 🌱 Learning: Jetpack Compose & SwiftUI
 - 💼 Available for freelance or full-time roles (remote)
 - 🧠 You can explore my full tech stack and skills in my portfolio:  
