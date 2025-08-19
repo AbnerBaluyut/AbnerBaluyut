@@ -10,6 +10,11 @@ I'm a passionate **Flutter mobile developer** from the Philippines 🇵🇭, bui
 - 🧠 You can explore my full tech stack and skills in my portfolio:  
   👉 [abnerbaluyut.vercel.app](https://abnerbaluyut.vercel.app/)
 
+
+### 🛠️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,java,swift,graphql,firebase,postman,git,github,apple,figma)](https://skillicons.dev)
+
 ### 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://abnerbaluyut.vercel.app/)
