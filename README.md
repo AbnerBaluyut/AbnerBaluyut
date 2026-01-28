@@ -10,7 +10,7 @@ I’m a **Flutter mobile developer** based in the Philippines 🇵🇭 with hand
     [Google Play](https://play.google.com/store/apps/details?id=ph.easethetics.easentralized.easelife&hl=en) | [App Store](https://apps.apple.com/ph/app/easelife-1-step-to-perfection/id1638659132)
   * **Easemart** – A cross-border e-commerce app supporting international orders
     [Google Play](https://play.google.com/store/apps/details?id=ph.easethetics.easemart&hl=en) | [App Store](https://apps.apple.com/us/app/easemart-kr/id6443999042)
-  * **EaseMonitoring** – A business monitoring companion app for clinics *(coming soon)*
+  * **EaseMonitoring** – A business monitoring companion app for clinics [Google Play](https://play.google.com/store/apps/details?id=com.easethetics.ease_monitoring&hl=en) | *(App Store - coming soon)*
 * 🌱 **Currently learning:** Jetpack Compose & SwiftUI to deepen native development skills
 * 💼 **Open to:** Freelance projects and full-time remote roles
 * 🧠 **Portfolio, projects, and tech stack:**
