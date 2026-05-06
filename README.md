@@ -1,8 +1,30 @@
 ![My Banner](cover_photo.png)
 
-## 👋 Hi, I’m **Abner Baluyut**
+```dart
+class FlutterDeveloper {
 
-I’m a **Flutter mobile developer** based in the Philippines 🇵🇭 with hands-on experience building, maintaining, and shipping **production-ready Android and iOS applications**. I focus on writing clean, scalable code and delivering apps that solve real business needs.
+  final String greeting = "👋 Hi, I’m Abner Baluyut";
+
+  final String title = "Flutter Mobile Developer";
+
+  final String location = "Philippines 🇵🇭";
+
+  final String identityNote = "Deaf developer — code is my primary language of communication";
+
+  final String about =
+      "I’m a Flutter mobile developer with hands-on experience building, "
+      "maintaining, and shipping production-ready Android and iOS applications. "
+      "I focus on writing clean, scalable code and delivering apps that solve real business needs.";
+
+  final List<String> focusAreas = [
+    "Clean Architecture",
+    "Scalable Code",
+    "Production-ready Apps",
+    "Android Development",
+    "iOS Development"
+  ];
+}
+```
 
 * 🔭 **Currently working on**
 
